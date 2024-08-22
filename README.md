@@ -8,7 +8,7 @@
 
 ## Alunos integrantes da equipe
 
-* [Nalanda Luiza dos Santos)](https://github.com/aluno1)
+* [Nalanda Luiza dos Santos)(com link para Github](https://github.com/NalandaLiu)
 * [Sabrina Helena Ferreira (com link para Github)](https://github.com/aluno2)
 * [Victoria Aparecida Barbosa (com link para Github)](https://github.com/aluno3)
 * [Wiilian Daniel Martins(com link para Github)](https://github.com/aluno4)

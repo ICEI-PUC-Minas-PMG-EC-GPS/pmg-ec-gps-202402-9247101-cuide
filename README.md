@@ -8,10 +8,10 @@
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1 (com link para Github)](https://github.com/aluno1)
-* [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
-* [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
-* [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
+* [Nalanda Luiza dos Santos)](https://github.com/aluno1)
+* [Sabrina Helena Ferreira (com link para Github)](https://github.com/aluno2)
+* [Victoria Aparecida Barbosa (com link para Github)](https://github.com/aluno3)
+* [Wiilian Daniel Martins(com link para Github)](https://github.com/aluno4)
 * [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
 
 ## Professor responsável

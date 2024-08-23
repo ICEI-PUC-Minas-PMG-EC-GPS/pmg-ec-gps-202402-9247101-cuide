@@ -102,14 +102,18 @@ O impacto previsto do CUIDE é significativo, tanto para os cuidadores profissio
 
 | Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
 |-----------------|-----------------|---------------|-------------|-------------|
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
+|  Ana Oliveira       |    Gerente de TI             |    Patrocinadora do Projeto           |      ana.oliveira@empresa.com       |      	+55 (31) 99999-1234       |
+|      João Silva	 |      Funcionário da Linha de Produção	           |    Testador de Usabilidade	           |     joao.silva@empresa.com	        |      +55 (31) 98888-2345 |
+|    Carla Santos	     |   Presidente	  |     Decisora Estratégica	          |   carla.santos@empresa.com	     |     +55 (31) 97777-3456        |
+|      Lucas Almeida	     |       Analista de Sistema do Cliente	    |Facilitador de Integração	  |    lucas.almeida@cliente.com	         |   +55 (31) 96666-4567 |
+|   Fernanda Costa	        |     Desenvolvedora            |   Desenvolvedora Back-End	            |  fernanda.costa@empresa.com	           |    +55 (31) 95555-5678 |
+|   Marcos Pereira	      |     Desenvolvedor	    |   Desenvolvedor Front-End	   |       marcos.pereira@empresa.com	      |    +55 (31) 94444-6789       |
+|   Amanda Ribeiro |  Analista de Requisitos    |     Definição de Funcionalidades	  |  amanda.ribeiro@empresa.com	  |    +55 (31) 93333-7890 |
+|  Ricardo Ferreira	|  Analista de Testes	  | Validação e Qualidade	  | ricardo.ferreira@empresa.com	  |  +55 (31) 92222-8901 |
+|  Instituições de Saúde	| Parceiros	  | Colaboradores e Usuários	  | contato@instituicao.com		  | +55 (31) 91111-9012 |
+|  Associações de Cuidadores		| Parceiros	  | Colaboradores e Usuários	  | contato@associacao.com	| +55 (31) 91211-9012 |
+| Cuidadores Profissionais		| Usuários		  | Usuários Finais		  | -- | -- |
+| Idosos e Familiares		| Usuários		  | Usuários Finais		  | -- | -- |
 
 > Opções de identificação dos stakeholders:
 > - Nome: nome da parte interessada (inclui funcionários da empresa e do cliente)
@@ -124,14 +128,18 @@ O impacto previsto do CUIDE é significativo, tanto para os cuidadores profissio
 
 | Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio       | Observações   |
 |-----------------|------------------------|---------------|---------------------|-------------|---------------|
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
+|  Ana Oliveira       |   Sucesso geral do projeto e ROI	 | Alta	  |Alta	 |    Positivo	     | Controle financeiro |
+|      João Silva	 |   Facilidade de uso no ambiente de produção	 |  Média	   | Média    |    Neutro| Feedback sobre UX |
+|    Carla Santos	     | Impacto positivo na imagem corporativa	 |  Alta	   |  Alta	 |  Positivo	      | Decisões estratégicas |
+|      Lucas Almeida	     | Integração eficaz com os sistemas do cliente	| Alta	  |  Alta    |  Positivo	 | Coordena a integração |
+|   Fernanda Costa	        | Implementação de um back-end robusto	  | Média    | Alta    | Positivo | Coordena a arquitetura |
+|   Marcos Pereira	      |     Interface de usuário moderna e responsiva		    | Média |  Alta	   |  Positivo    | Design da interface |
+|   Amanda Ribeiro |  Definição clara dos requisitos do sistema	 | Alta	 | Alta	  |  Positivo	| Acompanhamento de demandas |
+|  Ricardo Ferreira	|  Garantia de qualidade e ausência de bugs	 | Alta | Alta	  | Positivo |Testes e validação |
+|  Instituições de Saúde	| Integração fácil e rápida com a plataforma	 | Média	 | Média		  | Positivo	 | Colaboram com integração |
+|  Associações de Cuidadores		| Suporte contínuo e troca de experiências	| Média	 | Média		| Positivo | Ajudam na disseminação |
+| Cuidadores Profissionais		|  Ferramentas de gestão e suporte emocional	  |  Alta		  | Alta	| Positivo | Expectativas variáveis |
+| Idosos e Familiares		| Melhoria na qualidade de vida e bem-estar	  | Alta	  | Alta	| Positivo|  Expectativas variáveis |
 
 > Opções de avaliação:
 > - Expectativa: descrição da expectativa da parte interessada no projeto.

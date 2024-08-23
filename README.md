@@ -2,14 +2,14 @@
 
 # Nome do projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  **CUIDE** ......
 
-> Descreva, em um ou dois parágrafos, um resumo do projeto (principais objetivos e justificativa).
+> CUIDE é uma plataforma digital inovadora projetada para apoiar cuidadores de idosos, oferecendo recursos informativos, ferramentas de gestão, suporte emocional e recursos de bem-estar. Nosso objetivo é melhorar a qualidade dos cuidados prestados e proporcionar suporte contínuo aos cuidadores, promovendo uma experiência mais eficiente e gratificante.
 
 ## Alunos integrantes da equipe
 
 * [Nalanda Luiza dos Santos)(com link para Github](https://github.com/NalandaLiu)
-* [Sabrina Helena Ferreira (com link para Github)](https://github.com/aluno2)
+* [Sabrina Helena Ferreira (com link para Github)](https://github.com/sabrinahelena)
 * [Victoria Aparecida Barbosa (com link para Github)](https://github.com/aluno3)
 * [Wiilian Daniel Martins(com link para Github)](https://github.com/aluno4)
 * [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)

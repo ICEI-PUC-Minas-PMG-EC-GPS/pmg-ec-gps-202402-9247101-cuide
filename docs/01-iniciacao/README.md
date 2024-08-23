@@ -73,6 +73,7 @@ Os benefícios esperados com a construção do CUIDE incluem:
 - **Eficiência na gestão de cuidados:** Com ferramentas como calendário de cuidados e relatórios de saúde, os cuidadores poderão organizar melhor suas tarefas, garantindo que nada seja esquecido.
 - **Acesso a informações essenciais:** A biblioteca de conteúdo e os guias detalhados permitem que os cuidadores tenham acesso rápido a informações cruciais sobre procedimentos e melhores práticas no cuidado de idosos.
 O impacto previsto do CUIDE é significativo, tanto para os cuidadores profissionais quanto para os familiares, promovendo uma experiência mais satisfatória e eficiente na prestação de cuidados, o que, por sua vez, refletirá em uma melhor qualidade de vida para os idosos sob seus cuidados.
+- **Integração com sistemas embarcados:** A integração com a pulseira de monitoramento de sinais vitais oferece uma camada extra de segurança, alertando os cuidadores imediatamente em caso de irregularidades na saúde do idoso, sem a necessidade de internet ou IoT.
 
 <br>
 > Aqui você deve descrever os benefícios esperados pela construção do projeto.

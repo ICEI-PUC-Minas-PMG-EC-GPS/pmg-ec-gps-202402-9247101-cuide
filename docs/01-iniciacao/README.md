@@ -63,8 +63,18 @@
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O projeto CUIDE: Plataforma de Apoio para Cuidadores de Idosos foi desenvolvido com o objetivo de oferecer suporte aos cuidadores e familiares, que muitas vezes enfrentam desafios significativos em suas tarefas diárias. A plataforma aborda uma demanda crescente por soluções que melhorem a qualidade dos cuidados oferecidos aos idosos, bem como a qualidade de vida dos próprios cuidadores.
 
+Com a população idosa em crescimento, há uma necessidade cada vez maior de ferramentas que ajudem a gerir de forma eficiente e humanizada os cuidados necessários. O CUIDE foi projetado para atender a essa necessidade específica, fornecendo uma solução que integra recursos informativos, ferramentas de gestão e suporte emocional em um único lugar.
+
+Os benefícios esperados com a construção do CUIDE incluem:
+
+- **Melhoria na qualidade de vida dos cuidadores e idosos:** A plataforma oferece recursos que facilitam o gerenciamento dos cuidados, reduzindo o estresse e promovendo o bem-estar dos envolvidos.
+- **Eficiência na gestão de cuidados:** Com ferramentas como calendário de cuidados e relatórios de saúde, os cuidadores poderão organizar melhor suas tarefas, garantindo que nada seja esquecido.
+- **Acesso a informações essenciais:** A biblioteca de conteúdo e os guias detalhados permitem que os cuidadores tenham acesso rápido a informações cruciais sobre procedimentos e melhores práticas no cuidado de idosos.
+O impacto previsto do CUIDE é significativo, tanto para os cuidadores profissionais quanto para os familiares, promovendo uma experiência mais satisfatória e eficiente na prestação de cuidados, o que, por sua vez, refletirá em uma melhor qualidade de vida para os idosos sob seus cuidados.
+
+<br>
 > Aqui você deve descrever os benefícios esperados pela construção do projeto.
 > As justificativas do projeto explicam as razões e a necessidade da iniciativa.
 > Elas demonstram como o projeto atende a uma demanda específica, resolve um problema ou aproveita uma oportunidade identificada.

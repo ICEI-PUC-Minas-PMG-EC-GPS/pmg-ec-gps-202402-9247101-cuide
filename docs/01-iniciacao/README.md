@@ -55,7 +55,15 @@ Este problema é ainda mais agravado pela fragmentação dos recursos disponíve
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Objetivo Geral
+
+Aprimorar a qualidade de vida de cuidadores e idosos.
+
+Objetivos Específicos
+
+-Gerenciamento de calendário e lista de tarefas relacionados ao idoso com relatórios de saúde e lembretes de aviso.
+-Suporte online com especialistas e cuidadores experientes.
+-Dispositivo que monitora sinais vitais integrado ao sistema que emite alerta em situações criticas.
 
 > Aqui você deve descrever os objetivos do trabalho.
 > Apresente um Objetivo Geral, sintetizado em uma única frase.

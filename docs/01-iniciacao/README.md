@@ -129,7 +129,7 @@ Desenvolver um trabalho que visa além da parte de software/hardware, a parte hu
 
 | Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
 |-----------------|-----------------|---------------|-------------|-------------|
-|  Nalanda Santos       |    Gerente de TI             |    Patrocinadora do Projeto           |      ana.oliveira@empresa.com       |      	+55 (31) 99999-1234       |
+|  Nalanda Santos       |    Gerente de TI             |    Patrocinadora do Projeto           |     nalanda.santos@empresa.com       |      	+55 (31) 99999-1234       |
 |      João Silva	 |      Funcionário da Linha de Produção	           |    Testador de Usabilidade	           |     joao.silva@empresa.com	        |      +55 (31) 98888-2345 |
 |    Carla Santos	     |   Presidente	  |     Decisora Estratégica	          |   carla.santos@empresa.com	     |     +55 (31) 97777-3456        |
 |      Lucas Almeida	     |       Analista de Sistema do Cliente	    |Facilitador de Integração	  |    lucas.almeida@cliente.com	         |   +55 (31) 96666-4567 |

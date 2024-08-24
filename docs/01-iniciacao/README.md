@@ -83,7 +83,20 @@ O impacto previsto do CUIDE é significativo, tanto para os cuidadores profissio
 
 ## Critérios de Sucesso
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Entrega bem sucedida e feita nos parâmetros corretos, em todas as sprints, de maneira bem distribuída e organizada.
+
+Trabalhar e desenvolver habilidades gerenciais dos alunos ao participar da implantação de projetos nos mais diversos âmbitos do mercado, trabalhando conforme as devidas metodologias.
+
+Priorização da privacidade e segurança dos dados dos usuários conforme LGPD.
+
+Número de usuários ativos diários/mensais, e leads satisfatórios de tempo médio gasto na plataforma
+Índice de satisfação dos usuário.
+
+Redução no estresse reportado pelos cuidadores de idosos, que geralmente são invisibilizados.
+
+Melhoria na qualidade de vida dos idosos (baseado em pesquisas), trazendo inovação, e abordando a importância da tecnologia na vida da população Sênior.
+
+Desenvolver um trabalho que visa além da parte de software/hardware, a parte humanizada, os usuários que o utilizam, e o bem estar dos mesmos.
 
 > Os critérios de sucesso indicam uma forma avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
 > Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 

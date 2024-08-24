@@ -155,13 +155,13 @@ Desenvolver um trabalho que visa além da parte de software/hardware, a parte hu
 
 | Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio       | Observações   |
 |-----------------|------------------------|---------------|---------------------|-------------|---------------|
-|  Ana Oliveira       |   Sucesso geral do projeto e ROI	 | Alta	  |Alta	 |    Positivo	     | Controle financeiro |
+|  Nalanda Santos       |   Sucesso geral do projeto e ROI	 | Alta	  |Alta	 |    Positivo	     | Controle financeiro |
 |      João Silva	 |   Facilidade de uso no ambiente de produção	 |  Média	   | Média    |    Neutro| Feedback sobre UX |
 |    Carla Santos	     | Impacto positivo na imagem corporativa	 |  Alta	   |  Alta	 |  Positivo	      | Decisões estratégicas |
 |      Lucas Almeida	     | Integração eficaz com os sistemas do cliente	| Alta	  |  Alta    |  Positivo	 | Coordena a integração |
-|   Fernanda Costa	        | Implementação de um back-end robusto	  | Média    | Alta    | Positivo | Coordena a arquitetura |
-|   Marcos Pereira	      |     Interface de usuário moderna e responsiva		    | Média |  Alta	   |  Positivo    | Design da interface |
-|   Amanda Ribeiro |  Definição clara dos requisitos do sistema	 | Alta	 | Alta	  |  Positivo	| Acompanhamento de demandas |
+|   Sabrina Helena	        | Implementação de um back-end robusto	  | Média    | Alta    | Positivo | Coordena a arquitetura |
+|   Victoria Barbosa	      |     Interface de usuário moderna e responsiva		    | Média |  Alta	   |  Positivo    | Design da interface |
+|   Willian Martins |  Definição clara dos requisitos do sistema	 | Alta	 | Alta	  |  Positivo	| Acompanhamento de demandas |
 |  Ricardo Ferreira	|  Garantia de qualidade e ausência de bugs	 | Alta | Alta	  | Positivo |Testes e validação |
 |  Instituições de Saúde	| Integração fácil e rápida com a plataforma	 | Média	 | Média		  | Positivo	 | Colaboram com integração |
 |  Associações de Cuidadores		| Suporte contínuo e troca de experiências	| Média	 | Média		| Positivo | Ajudam na disseminação |

@@ -62,7 +62,9 @@ Aprimorar a qualidade de vida de cuidadores e idosos.
 Objetivos Específicos
 
 -Gerenciamento de calendário e lista de tarefas relacionados ao idoso com relatórios de saúde e lembretes de aviso.
+
 -Suporte online com especialistas e cuidadores experientes.
+
 -Dispositivo que monitora sinais vitais integrado ao sistema que emite alerta em situações criticas.
 
 > Aqui você deve descrever os objetivos do trabalho.

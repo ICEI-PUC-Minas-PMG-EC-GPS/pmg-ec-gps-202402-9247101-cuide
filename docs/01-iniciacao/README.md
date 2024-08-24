@@ -41,7 +41,11 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Sabemos que o envelhecimento é uma realidade crescente, no qual, resulta em um aumento significativo que números de pessoas idosas, assim aumentando o nível de cuidados especiais. No entanto, o cenário acaba colocando uma pressão maior sobre os cuidadores, em que, muitas vezes são familiares ou profissionais de saúde sem treinamento adequado ou recursos suficientes para lidar com a complexidade das necessidades dos idosos. Diante disso, sabe-se que esses profissionais enfrentam uma série de desafio contínuos, sendo como principal a falta de importantes  informações precisas e acessíveis sobre os cuidados geriátricos, com isso gera uma dificuldade maior na gestão de rotinas, tratamentos e o isolamento emocional decorrente da intensa carga de trabalho.
+
+A carga colocada em cima dos cuidadores, e a falta de um suporte emocional, pode acabar gerando um declínio na qualidade dos cuidados prestados, afetando diretamente o bem-estar dos idosos. Visto que, a ausência de uma plataforma centralizada e integrada que ofereça suporte abrangente e acessível a esses cuidadores representa uma lacuna crítica no sistema de saúde e bem-estar.
+
+Este problema é ainda mais agravado pela fragmentação dos recursos disponíveis, que são sempre mais complicados de acessar, assim tornando o cuidado com os idosos um processo ainda mais desafiador. A falta de um sistema de apoio estruturado e eficiente não só compromete a qualidade de vida dos idosos, mas também coloca em risco a saúde física e mental dos próprios cuidadores, que muitas vezes trabalham em condições extremas e sem o reconhecimento ou apoio adequado.
 
 > Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
 > A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.

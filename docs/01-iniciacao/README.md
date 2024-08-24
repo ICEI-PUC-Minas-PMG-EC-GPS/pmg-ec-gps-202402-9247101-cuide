@@ -129,13 +129,13 @@ Desenvolver um trabalho que visa além da parte de software/hardware, a parte hu
 
 | Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
 |-----------------|-----------------|---------------|-------------|-------------|
-|  Ana Oliveira       |    Gerente de TI             |    Patrocinadora do Projeto           |      ana.oliveira@empresa.com       |      	+55 (31) 99999-1234       |
+|  Nalanda Santos       |    Gerente de TI             |    Patrocinadora do Projeto           |      ana.oliveira@empresa.com       |      	+55 (31) 99999-1234       |
 |      João Silva	 |      Funcionário da Linha de Produção	           |    Testador de Usabilidade	           |     joao.silva@empresa.com	        |      +55 (31) 98888-2345 |
 |    Carla Santos	     |   Presidente	  |     Decisora Estratégica	          |   carla.santos@empresa.com	     |     +55 (31) 97777-3456        |
 |      Lucas Almeida	     |       Analista de Sistema do Cliente	    |Facilitador de Integração	  |    lucas.almeida@cliente.com	         |   +55 (31) 96666-4567 |
-|   Fernanda Costa	        |     Desenvolvedora            |   Desenvolvedora Back-End	            |  fernanda.costa@empresa.com	           |    +55 (31) 95555-5678 |
-|   Marcos Pereira	      |     Desenvolvedor	    |   Desenvolvedor Front-End	   |       marcos.pereira@empresa.com	      |    +55 (31) 94444-6789       |
-|   Amanda Ribeiro |  Analista de Requisitos    |     Definição de Funcionalidades	  |  amanda.ribeiro@empresa.com	  |    +55 (31) 93333-7890 |
+|   Sabrina Helena	        |     Desenvolvedora            |   Desenvolvedora Back-End	            |  sabrina.helena@empresa.com	           |    +55 (31) 95555-5678 |
+|   Victoria Barbosa	      |     Desenvolvedora	    |   Desenvolvedora Front-End	   |       victoria.barbosa@empresa.com	      |    +55 (31) 94444-6789       |
+|   Willian Martins |  Analista de Requisitos    |     Definição de Funcionalidades	  |  willian.martins@empresa.com	  |    +55 (31) 93333-7890 |
 |  Ricardo Ferreira	|  Analista de Testes	  | Validação e Qualidade	  | ricardo.ferreira@empresa.com	  |  +55 (31) 92222-8901 |
 |  Instituições de Saúde	| Parceiros	  | Colaboradores e Usuários	  | contato@instituicao.com		  | +55 (31) 91111-9012 |
 |  Associações de Cuidadores		| Parceiros	  | Colaboradores e Usuários	  | contato@associacao.com	| +55 (31) 91211-9012 |

@@ -216,6 +216,7 @@ Receitas Esperadas:
 
 Assinaturas e Licenças: Projeção inicial de R$ 500.000,00 anuais.
 Parcerias e Publicidade: R$ 50.000,00 anuais.
+
 Economias de Custos e Ganhos Intangíveis:
 
 Redução no Estresse dos Cuidadores: Reduzindo a rotatividade e aumentando a satisfação dos usuários.
@@ -226,7 +227,7 @@ Valor Presente Líquido (VPL): O VPL pode ser calculado com base nas receitas es
 Taxa Interna de Retorno (TIR): A TIR é calculada para determinar a taxa de retorno percentual esperada do investimento. Deve ser comparada com a taxa de retorno exigida para avaliar a atratividade do projeto.
 
 Considerações Finais
-A análise econômica sugere que o projeto CUIDE tem uma boa perspectiva de viabilidade financeira com base nas estimativas de receitas e custos. No entanto, a avaliação contínua através de métricas financeiras e feedback dos usuários será crucial para garantir a sustentabilidade e o sucesso a longo prazo.
+A análise econômica sugere que o CUIDE tem uma boa perspectiva de viabilidade financeira com base nas estimativas de receitas e custos. No entanto, a avaliação contínua através de métricas financeiras e feedback dos usuários será crucial para garantir a sustentabilidade e o sucesso a longo prazo.
 
 > A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
 > Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 

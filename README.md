@@ -11,7 +11,7 @@
 * [Nalanda Luiza dos Santos)(com link para Github](https://github.com/NalandaLiu)
 * [Sabrina Helena Ferreira (com link para Github)](https://github.com/sabrinahelena)
 * [Victoria Aparecida Barbosa (com link para Github)](https://github.com/aluno3)
-* [Wiilian Daniel Martins(com link para Github)](https://github.com/aluno4)
+* [Wiilian Daniel Martins(com link para Github)](https://github.com/WillDMartins)
 * [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
 
 ## Professor responsável

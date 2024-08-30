@@ -201,7 +201,32 @@ Desenvolver um trabalho que visa além da parte de software/hardware, a parte hu
 
 ## Estimativa de Custo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O custo inicial do projeto CUIDE é estimado em R$ 295.000,00, abrangendo recursos humanos, hardware, serviços de rede, hospedagem em nuvem, software de terceiros, treinamento, marketing, divulgação, licenças e conformidade, suporte e atendimento ao cliente, desenvolvimento futuramente planejado, contigência e reserva de emergência. A maior parte dos custos está relacionada ao desenvolvimento da plataforma e à aquisição de equipamentos e serviços necessários para garantir uma operação eficiente e segura. Esses investimentos são essenciais para a criação de uma solução robusta e confiável para cuidadores de idosos.
+
+Além dos custos iniciais, as despesas operacionais anuais incluem manutenção da plataforma, suporte técnico e treinamentos contínuos, totalizando cerca de R$ 18.000,00 por ano. Os ganhos esperados, provenientes de assinaturas e parcerias, são projetados para cobrir esses custos e gerar um retorno positivo, demonstrando a viabilidade econômica do projeto e sua capacidade de oferecer benefícios significativos para os usuários.
+
+Projeções Financeiras e Análise
+Investimentos Iniciais: O custo total estimado para o desenvolvimento e lançamento inicial da plataforma CUIDE é de R$ 295.000,00.
+
+Despesas Operacionais:
+
+Manutenção e Atualizações: R$ 10.000,00 anuais.
+Custos com Suporte e Treinamento: R$ 8.000,00 anuais.
+Receitas Esperadas:
+
+Assinaturas e Licenças: Projeção inicial de R$ 500.000,00 anuais.
+Parcerias e Publicidade: R$ 50.000,00 anuais.
+Economias de Custos e Ganhos Intangíveis:
+
+Redução no Estresse dos Cuidadores: Reduzindo a rotatividade e aumentando a satisfação dos usuários.
+Melhoria na Qualidade de Vida dos Idosos: Impacto positivo nas condições de saúde e bem-estar.
+Métricas Financeiras
+Valor Presente Líquido (VPL): O VPL pode ser calculado com base nas receitas esperadas, custos de manutenção e investimento inicial. Supondo uma taxa de desconto de 10%, o VPL seria avaliado ao longo de um período de 5 anos para determinar a viabilidade econômica.
+
+Taxa Interna de Retorno (TIR): A TIR é calculada para determinar a taxa de retorno percentual esperada do investimento. Deve ser comparada com a taxa de retorno exigida para avaliar a atratividade do projeto.
+
+Considerações Finais
+A análise econômica sugere que o projeto CUIDE tem uma boa perspectiva de viabilidade financeira com base nas estimativas de receitas e custos. No entanto, a avaliação contínua através de métricas financeiras e feedback dos usuários será crucial para garantir a sustentabilidade e o sucesso a longo prazo.
 
 > A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
 > Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
@@ -213,13 +238,29 @@ Desenvolver um trabalho que visa além da parte de software/hardware, a parte hu
 
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |           |            |              |             |
-| Hardware                |           |            |              |             |
-| Serviços de Rede        |           |            |              |             |
-| Hospedagem e Nuvem      |           |            |              |             |
-| Software de terceiros   |           |            |              |             |
-| Serviços e treinamento  |           |            |              |             |
-| **Total Geral**         |           |            |              |             |
+| Recursos Humanos        |    Desenvolvimento de software, design, teste, suporte e gestão de projeto.       |      1.500 horas      |       R$ 100,00	       |       R$ 150.000,00
+      |
+| Hardware                |     Servidores, dispositivos de monitoramento e equipamentos.	      |      -      |       -       |      R$ 50.000,00       |
+| Serviços de Rede        |     Infraestrutura de rede e internet.	      |      -      |       -       |      R$ 10.000,00
+       |
+| Hospedagem e Nuvem      |     Servidores em nuvem e hospedagem.	      |      -      |       -       |       R$ 20.000,00
+      |
+| Software de terceiros   |     Licenças e APIs necessárias.	      |      -      |       -       |      R$ 15.000,00
+       |
+| Serviços e treinamento  |     Treinamento para usuários e suporte técnico.	      |      100 horas	      |      R$ 80,00	        |      R$ 8.000,00
+       |
+| Marketing e Divulgação	  |      Campanhas publicitárias e materiais promocionais.	     |      -      |       -       |      R$ 30.000,00
+       |
+| Licenças e Conformidade	  |     Custos com regulamentações e certificações.	      |      -      |        -      |      R$ 5.000,00
+       |
+| Suporte ao Cliente e Atendimento	  |      Equipe e ferramentas de suporte ao cliente.	     |      -      |        -      |      R$ 12.000,00
+       |
+| Desenvolvimento Futuramente Planejado	  |     Recursos para atualizações e novos recursos.	      |      -      |       -       |      R$ 20.000,00
+       |
+| Contingência e Reserva de Emergência  |     Reserva para imprevistos e emergências.	      |      -      |       -       |      R$ 15.000,00
+       |
+| **Total Geral**         |     -      |      -      |       -       |      R$ 295.000,00
+       |
 
 
 ## Estimativa de Prazo

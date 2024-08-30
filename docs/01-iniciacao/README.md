@@ -238,29 +238,18 @@ A análise econômica sugere que o projeto CUIDE tem uma boa perspectiva de viab
 
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |    Desenvolvimento de software, design, teste, suporte e gestão de projeto.       |      1.500 horas      |       R$ 100,00	       |       R$ 150.000,00
-      |
+| Recursos Humanos        |    Desenvolvimento de software, design, teste, suporte e gestão de projeto.       |      1.500 horas      |       R$ 100,00	       |       R$ 150.000,00       |
 | Hardware                |     Servidores, dispositivos de monitoramento e equipamentos.	      |      -      |       -       |      R$ 50.000,00       |
-| Serviços de Rede        |     Infraestrutura de rede e internet.	      |      -      |       -       |      R$ 10.000,00
-       |
-| Hospedagem e Nuvem      |     Servidores em nuvem e hospedagem.	      |      -      |       -       |       R$ 20.000,00
-      |
-| Software de terceiros   |     Licenças e APIs necessárias.	      |      -      |       -       |      R$ 15.000,00
-       |
-| Serviços e treinamento  |     Treinamento para usuários e suporte técnico.	      |      100 horas	      |      R$ 80,00	        |      R$ 8.000,00
-       |
-| Marketing e Divulgação	  |      Campanhas publicitárias e materiais promocionais.	     |      -      |       -       |      R$ 30.000,00
-       |
-| Licenças e Conformidade	  |     Custos com regulamentações e certificações.	      |      -      |        -      |      R$ 5.000,00
-       |
-| Suporte ao Cliente e Atendimento	  |      Equipe e ferramentas de suporte ao cliente.	     |      -      |        -      |      R$ 12.000,00
-       |
-| Desenvolvimento Futuramente Planejado	  |     Recursos para atualizações e novos recursos.	      |      -      |       -       |      R$ 20.000,00
-       |
-| Contingência e Reserva de Emergência  |     Reserva para imprevistos e emergências.	      |      -      |       -       |      R$ 15.000,00
-       |
-| **Total Geral**         |     -      |      -      |       -       |      R$ 295.000,00
-       |
+| Serviços de Rede        |     Infraestrutura de rede e internet.	      |      -      |       -       |      R$ 10.000,00       |
+| Hospedagem e Nuvem      |     Servidores em nuvem e hospedagem.	      |      -      |       -       |       R$ 20.000,00       |
+| Software de terceiros   |     Licenças e APIs necessárias.	      |      -      |       -       |      R$ 15.000,00       |
+| Serviços e treinamento  |     Treinamento para usuários e suporte técnico.	      |      100 horas	      |      R$ 80,00	        |      R$ 8.000,00       |
+| Marketing e Divulgação	  |      Campanhas publicitárias e materiais promocionais.	     |      -      |       -       |      R$ 30.000,00       |
+| Licenças e Conformidade	  |     Custos com regulamentações e certificações.	      |      -      |        -      |      R$ 5.000,00       |
+| Suporte ao Cliente e Atendimento	  |      Equipe e ferramentas de suporte ao cliente.	     |      -      |        -      |      R$ 12.000,00       |
+| Desenvolvimento Futuramente Planejado	  |     Recursos para atualizações e novos recursos.	      |      -      |       -       |      R$ 20.000,00       |
+| Contingência e Reserva de Emergência  |     Reserva para imprevistos e emergências.	      |      -      |       -       |      R$ 15.000,00       |
+| **Total Geral**         |     -      |      -      |       -       |      R$ 295.000,00       |
 
 
 ## Estimativa de Prazo

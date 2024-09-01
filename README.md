@@ -12,7 +12,6 @@
 * [Sabrina Helena Ferreira](https://github.com/sabrinahelena)
 * [Victoria Aparecida Barbosa](https://github.com/aluno3)
 * [Wiilian Daniel Martins](https://github.com/WillDMartins)
-* [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
 
 ## Professor responsável
 

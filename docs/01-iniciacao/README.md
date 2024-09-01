@@ -340,9 +340,21 @@ A análise econômica mostra que, com base nas estimativas de receitas e custos,
 A tabela a seguir apresenta os requisitos funcionais do projeto. 
 
 |ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|------|-------------------------------------------------------------|-------|
+|RF-001| Permitir o cadastro  de tarefas                             |	ALTA |
+|RF-002| Emitir um relatório de tarefas do mês	                     | MÉDIA |
+|RF-003| Permitir a edição de tarefas cadastradas                    | ALTA  |
+|RF-003| Permitir a edição de tarefas cadastradas                    | ALTA  |
+|RF-004| Permitir a exclusão de tarefas	                             | ALTA  |
+|RF-005| Notificação de prazos das tarefas	                         | ALTA  |
+|RF-006| Permitir a filtro de tarefas por projeto e por status       | MÉDIA |
+|RF-007| Permitir busca de tarefas por palavras-chave	               | MÉDIA |
+|RF-008| Exportar lista de tarefas para formatos PDF e Excel	       | BAIXA |
+|RF-009| Permitir contato direcionado para operado de saúde parceira | BAIXA |
+|RF-010| Permitir cadastro e login de usuários	                     | ALTA  |
+|RF-011| Registrar histórico de alterações em tarefas	               | MÉDIA |
+|RF-012| Permitir conexões simultâneas                               | ALTA  |
+|RF-013| Permitir alertar de sinais vitais para os usuários          | ALTA  |
 
 ### Requisitos Não Funcionais
 
@@ -374,10 +386,17 @@ A tabela a seguir apresenta as restrições do projeto.
 
 A tabela a seguir apresenta as atividades que não serão executadas no projeto
 
-|ID    | Descrição do Contra-Escopo          | 
-|------|-------------------------------------|
-|CE-001| Treinamento de modelo de LLM        |
-|CE-002| Pesquisa de viabilidade do mercado. |
+| ID    | Descrição do Contra-Escopo                                  |  
+|-------|-------------------------------------------------------------|  
+| CE-001| Treinamento de modelo de LLM                                |  
+| CE-002| Estudo de acessibilidade do mercado                         |  
+| CE-003| Agendamentos de consultas\exames                            |  
+| CE-004| Personalização avançada de relatórios por usuário           |  
+| CE-005| Avaliação médica ou diagnóstico                             |  
+| CE-006| Suporte técnico 24/7 para usuários finais                   |  
+| CE-007| Criação de documentação técnica                             |  
+| CE-008| Implementação de criptografia ponta a ponta para comunicações |  
+
 
 ### Condições para início do Projeto
 

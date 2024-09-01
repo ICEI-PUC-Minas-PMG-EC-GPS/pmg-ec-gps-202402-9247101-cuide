@@ -381,14 +381,20 @@ A tabela a seguir apresenta as atividades que não serão executadas no projeto
 
 ### Condições para início do Projeto
 
-......  ATUALIZE AS CONDIÇÕES PARA INÍCIO DOS PROJETOS (MÍNIMO 3) ......
-
 A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
 |ID    | Descrição de Condições para Início do Projeto    | 
 |------|--------------------------------------------------|
 |CI-001| Assinatura de contrato de prestação de serviços. |
 |CI-002| Apresentação de garantias definidas no contrato. |
+|CI-003| Aprovação do plano de projeto pela equipe de gestão e partes interessadas. |
+|CI-004| Realização de um levantamento, uma pesquisa, com cuidadores, profissionais de saúde e familiares para definir as funcionalidades mais importantes (prioridades). |
+|CI-005| Estabelecimento de parcerias com instituições de saúde para suporte no desenvolvimento e propagação da plataforma, e investimento |
+|CI-006| Desenvolvimento e aprovação do escopo preliminar, incluindo a identificação de requisitos funcionais e não funcionais, restrições e contra-escopo. |
+|CI-007| Aprovação do orçamento preliminar e cronograma, alinhado com as expectativas das partes interessadas e as metas do projeto. |
+|CI-008| Identificação e mapeamento das partes interessadas, com uma avaliação de suas expectativas e influência no projeto. |
+|CI-009| Aquisição dos componentes e montagem do hardware (pulseira) para captura dos sinais vitais dos idosos, garantindo a funcionalidade antes do desenvolvimento do aplicativo. |
+
 
 ## Marcos Agendados e Entregas
 

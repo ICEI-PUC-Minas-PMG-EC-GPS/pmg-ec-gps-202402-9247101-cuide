@@ -57,7 +57,7 @@ Desee modo, a falta de um sistema de apoio estruturado e eficiente não só comp
 
 Objetivo Geral
 
-Aprimorar a qualidade de vida de cuidadores e idosos.
+Aprimorar a qualidade de vida de cuidadores e idosos, através de uma plataforma de monitoramento dos sinais vitais.
 
 Objetivos Específicos
 

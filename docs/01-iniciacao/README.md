@@ -201,9 +201,9 @@ Desenvolver um trabalho que visa além da parte de software/hardware, a parte hu
 
 ## Estimativa de Custo
 
-O projeto CUIDE terá um custo inicial de R$ 295.000,00 e cobrirá as seguintes áreas: recursos humanos, hardware, serviços de rede, hospedagem em nuvem, software de terceiros, treinamento, publicidade, conformidade, suporte e atendimento ao cliente, desenvolvimento futuro planejado, contigência e reserva de emergência. A maior parte dos custos envolve o desenvolvimento da plataforma e a aquisição de serviços e equipamentos necessários para garantir uma operação segura e eficiente.
+O CUIDE custará inicialmente R$ 295.000,00 e abrangerá as seguintes áreas: Recursos humanos, hardware, serviços de rede, hospedagem em nuvem, software de terceiros, treinamento, publicidade, conformidade, suporte e atendimento ao cliente, desenvolvimento futuro planejado, contingência e reserva de emergência. A maioria dos custos diz respeito ao desenvolvimento da plataforma e à aquisição de serviços e equipamentos para assegurar uma operação segura e eficiente.
 
-Além dos custos iniciais, as despesas operacionais anuais incluem suporte técnico, treinamento contínuo e manutenção da plataforma, que custam aproximadamente R$ 18.000,00. Demonstrando a viabilidade financeira do projeto e sua capacidade de oferecer benefícios significativos aos usuários, os ganhos de assinaturas e parcerias são projetados para cobrir esses custos e produzir um retorno positivo.
+Outras despesas operacionais anuais, além dos iniciais, são o suporte técnico, treinamento contínuo e manutenção da plataforma que totalizam aproximadamente R$ 18.000,00. Como receitas de assinaturas e parcerias devem cobrir esses custos e fornecer um retorno financeiro positivo, esses números já indicam a justificação financeira e razoabilidade do projeto e a capacidade de proporcionar grandes benefícios para os usuários.
 
 Projeções Financeiras e Análise
 Investimentos Iniciais: O desenvolvimento e lançamento inicial da plataforma CUIDE devem custar aproximadamente R$ 295.000,00.
@@ -220,13 +220,17 @@ Parcerias e Publicidade: R$ 50.000,00 anuais.
 Economias de Custos e Ganhos Intangíveis:
 
 Redução do Estresse dos Cuidadores: aumenta a satisfação dos usuários e diminui a rotatividade.
+
 Melhoria na Qualidade de Vida dos Idosos: Beneficios para a saúde e o bem-estar.
-Métricas Econômicas
+
+Métricas Econômicas:
+
 Valor Presente Líquido (VPL): O VPL pode ser calculado usando receitas esperadas, custos de manutenção e investimento inicial. Supondo uma taxa de desconto de 10%, a viabilidade econômica seria avaliada ao longo de cinco anos.
 
 Taxa Interna de Retorno (TIR): A taxa de retorno percentual esperada de um investimento é determinada pelo cálculo da TIR. Deve ser comparado com a taxa de retorno exigida para avaliar se o projeto é atraente.
 
 Conclusões finais:
+
 A análise econômica mostra que, com base nas estimativas de receitas e custos, o CUIDE apresenta uma boa visão de viabilidade financeira. No entanto, para garantir a sustentabilidade e o sucesso a longo prazo, a avaliação contínua será necessária por meio de métricas financeiras e comentários dos usuários.
 
 > A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
@@ -425,10 +429,15 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 |-----|-------------------------------------------------------------------|
 |M-1  | Liberação do sistema para cadastro de informações e configuração. |
 |M-2  | Permissão para uso do sistema, por usuários focais.               |
-|M-3  |                                                                   |
-|M-4  |                                                                   |
-|M-5  |                                                                   |
-|M-6  |                                                                   |
+|M-3  | Finalização da fase de Design e Prototipagem                      |
+|M-4  | Conclusão da primeira versão funcional do software	              |
+|M-5  | Teste Beta 1 para cuidadores	                                    |
+|M-6  | Revisão dos problemas identificados no Teste Beta 1	              |
+|M-7  | Teste Beta 2 para idosos	                                        |
+|M-8  | Revisão dos problemas identificados no Teste Beta 2	              |
+|M-9  | Testes e Qualidade Assegurada (QA) concluídos	                    |
+|M-10  | Lançamento final da plataforma                                    |
+|M-11  | Suporte pós-lançamento e manutenção inicial concluídos	          |
 
 ```diff
 + Tarefa 02

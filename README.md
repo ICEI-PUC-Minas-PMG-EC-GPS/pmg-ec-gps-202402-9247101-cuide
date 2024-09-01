@@ -10,7 +10,7 @@
 
 * [Nalanda Luiza dos Santos](https://github.com/NalandaLiu)
 * [Sabrina Helena Ferreira](https://github.com/sabrinahelena)
-* [Victoria Aparecida Barbosa](https://github.com/aluno3)
+* [Victoria Aparecida Barbosa](https://github.com/VicApBarbosa)
 * [Wiilian Daniel Martins](https://github.com/WillDMartins)
 
 ## Professor responsável

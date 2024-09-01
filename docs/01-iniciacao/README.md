@@ -201,12 +201,12 @@ Desenvolver um trabalho que visa além da parte de software/hardware, a parte hu
 
 ## Estimativa de Custo
 
-O custo inicial do projeto CUIDE é estimado em R$ 295.000,00, abrangendo recursos humanos, hardware, serviços de rede, hospedagem em nuvem, software de terceiros, treinamento, marketing, divulgação, licenças e conformidade, suporte e atendimento ao cliente, desenvolvimento futuramente planejado, contigência e reserva de emergência. A maior parte dos custos está relacionada ao desenvolvimento da plataforma e à aquisição de equipamentos e serviços necessários para garantir uma operação eficiente e segura. Esses investimentos são essenciais para a criação de uma solução robusta e confiável para cuidadores de idosos.
+O projeto CUIDE terá um custo inicial de R$ 295.000,00 e cobrirá as seguintes áreas: recursos humanos, hardware, serviços de rede, hospedagem em nuvem, software de terceiros, treinamento, publicidade, conformidade, suporte e atendimento ao cliente, desenvolvimento futuro planejado, contigência e reserva de emergência. A maior parte dos custos envolve o desenvolvimento da plataforma e a aquisição de serviços e equipamentos necessários para garantir uma operação segura e eficiente.
 
-Além dos custos iniciais, as despesas operacionais anuais incluem manutenção da plataforma, suporte técnico e treinamentos contínuos, totalizando cerca de R$ 18.000,00 por ano. Os ganhos esperados, provenientes de assinaturas e parcerias, são projetados para cobrir esses custos e gerar um retorno positivo, demonstrando a viabilidade econômica do projeto e sua capacidade de oferecer benefícios significativos para os usuários.
+Além dos custos iniciais, as despesas operacionais anuais incluem suporte técnico, treinamento contínuo e manutenção da plataforma, que custam aproximadamente R$ 18.000,00. Demonstrando a viabilidade financeira do projeto e sua capacidade de oferecer benefícios significativos aos usuários, os ganhos de assinaturas e parcerias são projetados para cobrir esses custos e produzir um retorno positivo.
 
 Projeções Financeiras e Análise
-Investimentos Iniciais: O custo total estimado para o desenvolvimento e lançamento inicial da plataforma CUIDE é de R$ 295.000,00.
+Investimentos Iniciais: O desenvolvimento e lançamento inicial da plataforma CUIDE devem custar aproximadamente R$ 295.000,00.
 
 Despesas Operacionais:
 
@@ -219,15 +219,15 @@ Parcerias e Publicidade: R$ 50.000,00 anuais.
 
 Economias de Custos e Ganhos Intangíveis:
 
-Redução no Estresse dos Cuidadores: Reduzindo a rotatividade e aumentando a satisfação dos usuários.
-Melhoria na Qualidade de Vida dos Idosos: Impacto positivo nas condições de saúde e bem-estar.
-Métricas Financeiras
-Valor Presente Líquido (VPL): O VPL pode ser calculado com base nas receitas esperadas, custos de manutenção e investimento inicial. Supondo uma taxa de desconto de 10%, o VPL seria avaliado ao longo de um período de 5 anos para determinar a viabilidade econômica.
+Redução do Estresse dos Cuidadores: aumenta a satisfação dos usuários e diminui a rotatividade.
+Melhoria na Qualidade de Vida dos Idosos: Beneficios para a saúde e o bem-estar.
+Métricas Econômicas
+Valor Presente Líquido (VPL): O VPL pode ser calculado usando receitas esperadas, custos de manutenção e investimento inicial. Supondo uma taxa de desconto de 10%, a viabilidade econômica seria avaliada ao longo de cinco anos.
 
-Taxa Interna de Retorno (TIR): A TIR é calculada para determinar a taxa de retorno percentual esperada do investimento. Deve ser comparada com a taxa de retorno exigida para avaliar a atratividade do projeto.
+Taxa Interna de Retorno (TIR): A taxa de retorno percentual esperada de um investimento é determinada pelo cálculo da TIR. Deve ser comparado com a taxa de retorno exigida para avaliar se o projeto é atraente.
 
-Considerações Finais:
-A análise econômica sugere que o CUIDE tem uma boa perspectiva de viabilidade financeira com base nas estimativas de receitas e custos. No entanto, a avaliação contínua através de métricas financeiras e feedback dos usuários será crucial para garantir a sustentabilidade e o sucesso a longo prazo.
+Conclusões finais:
+A análise econômica mostra que, com base nas estimativas de receitas e custos, o CUIDE apresenta uma boa visão de viabilidade financeira. No entanto, para garantir a sustentabilidade e o sucesso a longo prazo, a avaliação contínua será necessária por meio de métricas financeiras e comentários dos usuários.
 
 > A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
 > Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 

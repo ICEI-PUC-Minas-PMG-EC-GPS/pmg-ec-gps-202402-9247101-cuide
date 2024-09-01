@@ -425,19 +425,19 @@ A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
 A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos (requisitos).
 
-|ID   | Marco do Projeto                                                  |Data         | 
-|-----|-------------------------------------------------------------------|
-|M-1  | Liberação do sistema para cadastro de informações e configuração. | 05/09/2024	|
-|M-2  | Permissão para uso do sistema, por usuários focais.               | 12/09/2024	|
-|M-3  | Finalização da fase de Design e Prototipagem                      | 19/09/2024	|
-|M-4  | Conclusão da primeira versão funcional do software	              | 17/10/2024	|
-|M-5  | Teste Beta 1 para cuidadores	                                    | 24/10/2024	|
-|M-6  | Revisão dos problemas identificados no Teste Beta 1	              | 31/10/2024	|
-|M-7  | Teste Beta 2 para idosos	                                        | 07/11/2024	|
-|M-8  | Revisão dos problemas identificados no Teste Beta 2	              | 14/11/2024	|
-|M-9  | Testes e Qualidade Assegurada (QA) concluídos	                    | 21/11/2024	|
-|M-10  | Lançamento final da plataforma                                    | 28/11/2024	|
-|M-11  | Suporte pós-lançamento e manutenção inicial concluídos	          | 05/12/2024	|
+|ID   | Marco do Projeto                                                  | Data         | 
+|-----|-------------------------------------------------------------------|--------------|
+|M-1  | Liberação do sistema para cadastro de informações e configuração. | 05/09/2024	 |
+|M-2  | Permissão para uso do sistema, por usuários focais.               | 12/09/2024	 |
+|M-3  | Finalização da fase de Design e Prototipagem                      | 19/09/2024	 |
+|M-4  | Conclusão da primeira versão funcional do software	              | 17/10/2024	 |
+|M-5  | Teste Beta 1 para cuidadores	                                    | 24/10/2024	 |
+|M-6  | Revisão dos problemas identificados no Teste Beta 1	              | 31/10/2024	 |
+|M-7  | Teste Beta 2 para idosos	                                        | 07/11/2024	 |
+|M-8  | Revisão dos problemas identificados no Teste Beta 2	              | 14/11/2024	 |
+|M-9  | Testes e Qualidade Assegurada (QA) concluídos	                    | 21/11/2024	 |
+|M-10  | Lançamento final da plataforma                                    | 28/11/2024	 |
+|M-11  | Suporte pós-lançamento e manutenção inicial concluídos	          | 05/12/2024	 |
 
 ```diff
 + Tarefa 02

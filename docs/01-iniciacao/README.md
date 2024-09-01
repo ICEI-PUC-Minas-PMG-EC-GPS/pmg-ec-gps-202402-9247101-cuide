@@ -255,8 +255,39 @@ A análise econômica mostra que, com base nas estimativas de receitas e custos,
 
 ## Estimativa de Prazo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+### 1. Planejamento e Análise de Requisitos
+- **Descrição:** Definição dos requisitos do projeto, análise de viabilidade e planejamento geral
+- **Horas Previstas:** 80 horas
+- **Duração:** 1 semana
 
+### 2. Design e Prototipagem
+- **Descrição:** Criação do design da interface, protótipos e revisões
+- **Horas Previstas:** 160 horas
+- **Duração:** 2 semanas
+
+### 3. Desenvolvimento
+- **Descrição:** Codificação do software, integração de sistemas e desenvolvimento de funcionalidades
+- **Horas Previstas:** 640 horas
+- **Duração:** 6 semanas
+
+### 4. Testes e QA
+- **Descrição:** Testes de funcionalidade, usabilidade e segurança, correção de bugs
+- **Horas Previstas:** 160 horas
+- **Duração:** 2 semanas
+
+### 5. Implantação e Treinamento
+- **Descrição:** Lançamento da plataforma, treinamento de usuários e suporte inicial
+- **Horas Previstas:** 80 horas
+- **Duração:** 1 semana
+
+### 6. Suporte Pós-Lançamento e Manutenção Inicial
+- **Descrição:** Suporte técnico, resolução de problemas iniciais e manutenção
+- **Horas Previstas:** 80 horas
+- **Duração:** 1 semana
+
+### Resumo do Projeto
+- **Total de Horas Previstas:** 1.200 horas
+- **Duração Total do Projeto:** Aproximadamente 13 semanas
 > A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
 > Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
 > Uma estimativa precisa orienta a execução do projeto, contribui para a gestão de expectativas e para o estabelecimento de metas alcançáveis.
@@ -266,9 +297,9 @@ A análise econômica mostra que, com base nas estimativas de receitas e custos,
 > * Data de início
 > * Data de término
 
-* Prazo previsto (em horas): XX horas
-* Data de início: __ / __ / _____
-* Data de término: __ / __ / _____
+* Prazo previsto (em horas): 1200 horas
+* Data de início: 29 / 08 / 2024
+* Data de término: 28 / 11 / 2024
 
 ## Escopo Preliminar e Premissas
 

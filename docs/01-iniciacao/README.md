@@ -339,8 +339,6 @@ A análise econômica mostra que, com base nas estimativas de receitas e custos,
 
 ### Requisitos Funcionais
 
-......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 10) ......
-
 A tabela a seguir apresenta os requisitos funcionais do projeto. 
 
 |ID    | Descrição do Requisito  | Prioridade |
@@ -362,7 +360,6 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 
 ### Requisitos Não Funcionais
 
-......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
 
 A tabela a seguir apresenta os requisitos não funcionais do projeto. 
 
@@ -376,8 +373,6 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 |RNF-006| Deve ter equipe de analistas da saúde atualizada conforme feedbacks| ALTA      |
 
 ### Restrições
-
-......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 5) ......
 
 A tabela a seguir apresenta as restrições do projeto. 
 

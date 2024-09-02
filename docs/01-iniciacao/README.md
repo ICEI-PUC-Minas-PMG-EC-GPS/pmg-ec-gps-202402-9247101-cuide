@@ -366,11 +366,14 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 
 A tabela a seguir apresenta os requisitos não funcionais do projeto. 
 
-|ID     | Descrição do Requisito                                            |Prioridade |
-|-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
-
+|ID     | Descrição do Requisito                                             |Prioridade |
+|-------|--------------------------------------------------------------------|-----------|
+|RNF-001| O sistema terá portabilidade para rodar em um dispositivos móveis  | MÉDIA     | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s              | BAIXA     | 
+|RNF-003| Deve seguir as normas lgpd priorizando segurança dos dados         | ALTA      | 
+|RNF-004| Precisa ser atualizado frequentemente para se adaptar a novos s.o's| MÉDIA     | 
+|RNF-005| Deve seguir as normas lgpd priorizando segurança dos dados         | ALTA      |
+|RNF-006| Deve ter equipe de analistas da saúde atualizada conforme feedbacks| ALTA      |
 
 ### Restrições
 
@@ -381,7 +384,11 @@ A tabela a seguir apresenta as restrições do projeto.
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|-------|
 |RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RE-002| Emitir os relatórios de saúde              | MÉDIA |
+|RE-003| Integrar com dispositivos de monitoramento da saúde | ALTA | 
+|RE-004| Permitir comunicação com mentores          | MÉDIA |
+|RE-005| Permitir postagens e leituras nos fóruns de dúvidas | BAIXA | 
+|RE-006| Exibir e sincronizar o calendário de atividades       | ALTA |
 
 
 ### Contra-Escopo

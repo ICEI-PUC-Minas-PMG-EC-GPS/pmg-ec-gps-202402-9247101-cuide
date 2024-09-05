@@ -470,14 +470,12 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 > Indique as responsabilidades de cada membro do grupo no projeto.
 
-## Ferramentas
+......  COLOQUE AQUI O SEU TEXTO ......
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+## Ferramentas
 
 > Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
 > Todas as ferramentas utilizadas devem ser listadas.
@@ -488,9 +486,9 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 |-----------------------|--------------------|----------------------------|---------------|
 | Quadro Kanban         | Github             | https://github.com/XXXXXXX | Centralização e organização do projeto no próprio repositório. |
 | Repositório de código | GitHub             | https://github.com/XXXXXXX |               |
-| Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
-| Documentos Textuais   | LibreOffice Writer | N/A                        |               |
-| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
+| Protótipo Interativo  | Figma              | https://figma.com/XXXXXXX  |               |
+| Documentos Textuais   | Word               | N/A                        |               |
+| Planilhas e Gráficos  | Excel              | https://docs.google.com/   |               |
 | EAP / WBS             | | | |
 | Cronograma do Projeto | | | |
 | Matriz RACI           | | | |

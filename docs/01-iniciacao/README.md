@@ -345,13 +345,12 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 |------|-------------------------------------------------------------|-------|
 |RF-001| Permitir o cadastro  de tarefas                             |	ALTA |
 |RF-002| Emitir um relatório de tarefas do mês	                     | MÉDIA |
-|RF-003| Permitir a edição de tarefas cadastradas                    | ALTA  |
-|RF-003| Permitir a edição de tarefas cadastradas                    | ALTA  |
-|RF-004| Permitir a exclusão de tarefas	                             | ALTA  |
-|RF-005| Notificação de prazos das tarefas	                         | ALTA  |
-|RF-006| Permitir a filtro de tarefas por projeto e por status       | MÉDIA |
-|RF-007| Permitir busca de tarefas por palavras-chave	               | MÉDIA |
-|RF-008| Exportar lista de tarefas para formatos PDF e Excel	       | BAIXA |
+|RF-003|  Emitir relatórios de suporte à saúde do idoso com base nos dados capturados pelo sistema embarcado  | ALTA  |
+|RF-004| Monitorar sinais vitais em tempo real através do sistema embarcado   | ALTA  |
+|RF-005| Registrar e exibir o histórico de sinais vitais monitorados para consulta  | ALTA  |
+|RF-006| Emitir alertas sonoros quando os sinais vitais estiverem fora dos limites estabelecidos | ALTA  |
+|RF-007| Gerar relatórios periódicos de saúde com os dados capturados pelo sistema embarcado  | MÉDIA |
+|RF-008| Exportar lista de tarefas e relatórios de saúde para formatos PDF e Excel   | BAIXA |
 |RF-009| Permitir contato direcionado para operado de saúde parceira | BAIXA |
 |RF-010| Permitir cadastro e login de usuários	                     | ALTA  |
 |RF-011| Registrar histórico de alterações em tarefas	               | MÉDIA |

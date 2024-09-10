@@ -550,7 +550,24 @@ Utilizando o framework Scrum e a técnica Kanban, o CUIDE visa garantir um desen
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 > Indique as responsabilidades de cada membro do grupo no projeto.
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Divisão de Papéis e Tarefas:
+
+**Membros:**
+**Product Owner (PO) - Nalanda:**
+
+Será responsável por definir a visão do produto, assim garantindo que todos os membros do time estejam alinhados com o principal objetivo do projeto. Sendo assim, ela irá priorizar o backlog, selecionando as tarefas mais importantes para cada sprint. Atua como principal ponto de contato com as partes interessadas, principalmente para esclarecimento de dúvidas. Também será responsável por garantir que as entregas atendam às expectativas e aos requisitos do projeto.
+
+**Scrum Master - Willian:**
+
+Facilitará o processo Scrum, com a responsabilidade de organizar as cerimônias (reuniões de planejamento, revisões e retrospectivas). Ele terá como função, garantir que a equipe siga os princípios ágeis e que as práticas Scrum sejam aplicadas de maneira correta, também deverá fornecer ajuda para promover a melhoria contínua no processo de desenvolvimento, mantendo o time focado e produtivo.
+
+**Equipe de Desenvolvimento - Victória e Sabrina:**
+
+Responsáveis por transformar os itens do backlog em funcionalidades concretas do produto. Assim tendo como principal objetivo de
+Desenvolver o código, design e testes que garantem o funcionamento do projeto, conforme as especificações. No entanto, 
+a equipe é autônoma e colaborativa, trabalham de maneira multifuncional para entregar incrementos de valor ao produto a cada sprint.
+Colaboram com o PO para entender os requisitos e com o Scrum Master para resolver impedimentos técnicos.
+
 
 ## Ferramentas
 

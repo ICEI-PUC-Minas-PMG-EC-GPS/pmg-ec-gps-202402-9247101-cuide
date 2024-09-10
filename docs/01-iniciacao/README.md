@@ -453,7 +453,80 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Para garantir a eficácia no desenvolvimento e implementação da plataforma CUIDE, adotaremos a metodologia ágil, utilizando o framework Scrum e o sistema Kanban para gerenciar as tarefas e o fluxo de trabalho. Este documento detalha o processo de trabalho baseado em Scrum, a divisão de papéis e tarefas, e o uso do Kanban e ferramentas associadas.
+
+1. Framework Scrum
+Scrum é uma abordagem ágil que organiza o trabalho em ciclos iterativos chamados sprints. Cada sprint é uma iteração que dura normalmente de 2 a 4 semanas, durante a qual uma parte funcional do projeto é desenvolvida e entregue. O objetivo é entregar valor continuamente e permitir ajustes conforme o projeto avança.
+
+Principais Papéis no Scrum:
+
+Product Owner (PO): Responsável por definir a visão do produto, priorizar o backlog e garantir que a equipe entenda os requisitos e objetivos. O PO também atua como o ponto de contato principal com as partes interessadas e valida os entregáveis.
+
+Scrum Master: Facilita o processo Scrum, remove impedimentos e garante que a equipe siga as práticas ágeis. O Scrum Master ajuda a manter o time focado e produtivo, promovendo a melhoria contínua.
+
+Equipe de Desenvolvimento: Responsável por criar o produto conforme as especificações do backlog. A equipe é autônoma e multifuncional, composta por desenvolvedores, designers, e outros especialistas necessários.
+
+Cerimônias Scrum:
+
+Planejamento do Sprint: Reunião no início de cada sprint para definir o que será entregue e como o trabalho será realizado. O PO apresenta o backlog priorizado, e a equipe decide quais itens podem ser concluídos no próximo sprint.
+
+Daily Stand-up: Reuniões diárias de 15 minutos para a equipe sincronizar atividades, discutir o progresso e identificar impedimentos.
+
+Revisão do Sprint: Reunião ao final de cada sprint para demonstrar o trabalho concluído e obter feedback dos stakeholders.
+
+Retrospectiva do Sprint: Reunião após a revisão do sprint para refletir sobre o que funcionou bem e o que pode ser melhorado, visando ajustar processos e práticas para o próximo sprint.
+
+2. Implementação do Kanban
+Kanban é uma técnica visual de gerenciamento de fluxo de trabalho que ajuda a visualizar, gerenciar e otimizar o trabalho em andamento. Utilizaremos o Kanban para gerenciar e monitorar o progresso das tarefas em cada sprint.
+
+Estrutura do Quadro Kanban:
+
+Backlog: Lista de todas as tarefas e requisitos do projeto que ainda não foram iniciados. O backlog é constantemente atualizado e priorizado pelo Product Owner.
+
+A Fazer: Tarefas que estão prontas para serem iniciadas no próximo sprint. Estas tarefas são selecionadas durante a reunião de planejamento do sprint.
+
+Em Andamento: Tarefas que estão atualmente sendo trabalhadas pela equipe. Cada tarefa é movida para esta coluna assim que a equipe começa a trabalhar nela.
+
+Em Revisão: Tarefas que foram concluídas e estão aguardando revisão ou validação. Esta etapa assegura que o trabalho atende aos critérios de aceitação e padrões de qualidade.
+
+Concluído: Tarefas que foram totalmente concluídas e aceitas. Uma vez que uma tarefa passa por todas as fases de revisão, ela é movida para esta coluna.
+
+Ferramentas Kanban:
+
+GitHub Projects: Utilizaremos o GitHub Projects para criar e gerenciar nosso quadro Kanban. A plataforma permite que as tarefas sejam visualizadas e organizadas em colunas e também fornece recursos para rastrear o progresso e o status das tarefas.
+
+Trello/Jira: Alternativamente, Trello ou Jira podem ser usados, caso o GitHub Projects não atenda todas as necessidades. Ambas as ferramentas oferecem funcionalidades semelhantes para criar quadros Kanban e gerenciar fluxos de trabalho.
+
+Processo de Trabalho
+Planejamento Inicial:
+
+Período: 29/08/2024 - 04/09/2024
+Descrição: Durante esta fase, o Product Owner definirá o backlog inicial com todos os requisitos e funcionalidades desejadas para a plataforma CUIDE. Este backlog será detalhado e priorizado, e a equipe fará a organização para o primeiro sprint. As reuniões de planejamento garantirão que todos os requisitos estejam claramente definidos e que o plano de desenvolvimento esteja alinhado com os objetivos do projeto.
+Desenvolvimento dos Sprints:
+
+Período: 19/09/2024 - 30/10/2024
+
+Descrição: O desenvolvimento será dividido em três sprints:
+
+Sprint 1: 19/09/2024 - 02/10/2024
+Sprint 2: 03/10/2024 - 16/10/2024
+Sprint 3: 17/10/2024 - 30/10/2024
+Durante cada sprint, a equipe se concentrará nas tarefas selecionadas da coluna "A Fazer". O progresso será monitorado através do quadro Kanban, e reuniões diárias de stand-up serão realizadas para discutir o status das tarefas, identificar e resolver impedimentos. A equipe de desenvolvimento também realizará reuniões de revisão de sprint para demonstrar o trabalho concluído e receber feedback.
+
+Revisão e Ajustes:
+
+Período: 31/10/2024 - 13/11/2024
+Descrição: Após o desenvolvimento, a fase de testes e QA será conduzida. Esta fase inclui testes de funcionalidade, usabilidade e segurança, além da correção de bugs. A equipe realizará testes beta e fará ajustes conforme necessário para garantir que o produto final atenda aos critérios de qualidade e esteja pronto para o lançamento.
+Lançamento e Pós-Lançamento:
+
+Período: 14/11/2024 - 28/11/2024
+Descrição: A implantação oficial da plataforma será realizada, incluindo o lançamento da plataforma ao público e o treinamento dos usuários. Após o lançamento, o suporte técnico inicial será fornecido para resolver quaisquer problemas emergentes. O feedback dos usuários será coletado e analisado para planejar melhorias contínuas e ajustes na plataforma, assegurando que as necessidades dos usuários sejam atendidas e o produto continue a evoluir de acordo com as expectativas.
+
+Divisão de Papéis e Tarefas
+Product Owner: Define o backlog e prioriza as tarefas; gerencia o feedback dos stakeholders.
+Scrum Master: Facilita as cerimônias Scrum, remove impedimentos e ajuda a equipe a seguir as práticas ágeis.
+Equipe de Desenvolvimento: Trabalha nas tarefas do backlog, realizando desenvolvimento, design e testes conforme necessário.
+Utilizando o framework Scrum e a técnica Kanban, o CUIDE visa garantir um desenvolvimento eficiente e ágil da plataforma, promovendo a entrega contínua de valor e melhorias baseadas no feedback dos usuários.
 
 > Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
 >

@@ -455,16 +455,17 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 Para garantir a eficácia no desenvolvimento e implementação da plataforma CUIDE, adotaremos a metodologia ágil, utilizando o framework Scrum e o sistema Kanban para gerenciar as tarefas e o fluxo de trabalho. Este documento detalha o processo de trabalho baseado em Scrum, a divisão de papéis e tarefas, e o uso do Kanban e ferramentas associadas.
 
-1. Framework Scrum
+Framework Scrum:
+
 Scrum é uma abordagem ágil que organiza o trabalho em ciclos iterativos chamados sprints. Cada sprint é uma iteração que dura normalmente de 2 a 4 semanas, durante a qual uma parte funcional do projeto é desenvolvida e entregue. O objetivo é entregar valor continuamente e permitir ajustes conforme o projeto avança.
 
 Principais Papéis no Scrum:
 
-Product Owner (PO): Responsável por definir a visão do produto, priorizar o backlog e garantir que a equipe entenda os requisitos e objetivos. O PO também atua como o ponto de contato principal com as partes interessadas e valida os entregáveis.
+Product Owner (PO) - Nalanda : Responsável por definir a visão do produto, priorizar o backlog e garantir que a equipe entenda os requisitos e objetivos. O PO também atua como o ponto de contato principal com as partes interessadas e valida os entregáveis.
 
-Scrum Master: Facilita o processo Scrum, remove impedimentos e garante que a equipe siga as práticas ágeis. O Scrum Master ajuda a manter o time focado e produtivo, promovendo a melhoria contínua.
+Scrum Master - Willian: Facilita o processo Scrum, remove impedimentos e garante que a equipe siga as práticas ágeis. O Scrum Master ajuda a manter o time focado e produtivo, promovendo a melhoria contínua.
 
-Equipe de Desenvolvimento: Responsável por criar o produto conforme as especificações do backlog. A equipe é autônoma e multifuncional, composta por desenvolvedores, designers, e outros especialistas necessários.
+Equipe de Desenvolvimento - Victória e Sabrina: Responsável por criar o produto conforme as especificações do backlog. A equipe é autônoma e multifuncional, composta por desenvolvedores, designers, e outros especialistas necessários.
 
 Cerimônias Scrum:
 
@@ -476,7 +477,8 @@ Revisão do Sprint: Reunião ao final de cada sprint para demonstrar o trabalho 
 
 Retrospectiva do Sprint: Reunião após a revisão do sprint para refletir sobre o que funcionou bem e o que pode ser melhorado, visando ajustar processos e práticas para o próximo sprint.
 
-2. Implementação do Kanban
+Implementação do Kanban:
+
 Kanban é uma técnica visual de gerenciamento de fluxo de trabalho que ajuda a visualizar, gerenciar e otimizar o trabalho em andamento. Utilizaremos o Kanban para gerenciar e monitorar o progresso das tarefas em cada sprint.
 
 Estrutura do Quadro Kanban:
@@ -509,8 +511,11 @@ Período: 19/09/2024 - 30/10/2024
 Descrição: O desenvolvimento será dividido em três sprints:
 
 Sprint 1: 19/09/2024 - 02/10/2024
+
 Sprint 2: 03/10/2024 - 16/10/2024
+
 Sprint 3: 17/10/2024 - 30/10/2024
+
 Durante cada sprint, a equipe se concentrará nas tarefas selecionadas da coluna "A Fazer". O progresso será monitorado através do quadro Kanban, e reuniões diárias de stand-up serão realizadas para discutir o status das tarefas, identificar e resolver impedimentos. A equipe de desenvolvimento também realizará reuniões de revisão de sprint para demonstrar o trabalho concluído e receber feedback.
 
 Revisão e Ajustes:

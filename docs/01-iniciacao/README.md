@@ -350,12 +350,9 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 |RF-005| Registrar e exibir o histórico de sinais vitais monitorados para consulta  | ALTA  |
 |RF-006| Emitir alertas sonoros quando os sinais vitais estiverem fora dos limites estabelecidos | ALTA  |
 |RF-007| Gerar relatórios periódicos de saúde com os dados capturados pelo sistema embarcado  | MÉDIA |
-|RF-008| Exportar lista de tarefas e relatórios de saúde para formatos PDF e Excel   | BAIXA |
-|RF-009| Permitir contato direcionado para operado de saúde parceira | BAIXA |
-|RF-010| Permitir cadastro e login de usuários	                     | ALTA  |
-|RF-011| Registrar histórico de alterações em tarefas	               | MÉDIA |
-|RF-012| Permitir conexões simultâneas                               | ALTA  |
-|RF-013| Permitir alertar de sinais vitais para os usuários          | ALTA  |
+|RF-008| Permitir cadastro e login de usuários	                     | ALTA  |
+|RF-009| Registrar histórico de alterações em tarefas	               | MÉDIA |
+|RF-010| Permitir alertar de sinais vitais para os usuários          | ALTA  |
 
 ### Requisitos Não Funcionais
 
@@ -381,8 +378,6 @@ A tabela a seguir apresenta as restrições do projeto.
 |RE-002| Emitir os relatórios de saúde              | MÉDIA |
 |RE-003| Integrar com dispositivos de monitoramento da saúde | ALTA | 
 |RE-004| Permitir comunicação com mentores          | MÉDIA |
-|RE-005| Permitir postagens e leituras nos fóruns de dúvidas | BAIXA | 
-|RE-006| Exibir e sincronizar o calendário de atividades       | ALTA |
 
 
 ### Contra-Escopo

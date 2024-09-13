@@ -37,7 +37,7 @@
 ### Documento Editável
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
-- [Estrutura Analítica do Projeto - Editável]((https://miro.com/app/board/uXjVLf9iYk0=/))
+- [Estrutura Analítica do Projeto - Editável](https://miro.com/app/board/uXjVLf9iYk0=/)
 
 ```diff
 + Tarefa 04:

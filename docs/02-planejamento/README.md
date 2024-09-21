@@ -79,7 +79,7 @@
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável da Matriz RACI:
 - [Matriz de Responsabilidades (RACI) - Editável](artefatos/matriz-raci.docx)
-
+- [Recursos Humanos - Editável](artefatos/Recursos.xlsx)
 ```diff
 + Tarefa 05:
 + Fim da seção a ser atualizada.

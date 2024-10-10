@@ -231,7 +231,7 @@ A análise econômica mostra que, com base nas estimativas de receitas e custos,
 
 * Prazo previsto (em horas): 1200 horas
 * Data de início: 29 / 08 / 2024
-* Data de término: 28 / 11 / 2024
+* Data de término: 30 / 01 / 2025
 
 ## Escopo Preliminar e Premissas
 

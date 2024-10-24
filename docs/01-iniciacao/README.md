@@ -197,8 +197,8 @@ A análise econômica mostra que, com base nas estimativas de receitas e custos,
 
 ### 1. Planejamento e Análise de Requisitos
 - **Descrição:** Definição dos requisitos do projeto, análise de viabilidade e planejamento geral
-- **Horas Previstas:** 80 horas
-- **Duração:** 1 semana
+- **Horas Previstas:** 160 horas
+- **Duração:** 2 semanas
 
 ### 2. Design e Prototipagem
 - **Descrição:** Criação do design da interface, protótipos e revisões
@@ -206,14 +206,14 @@ A análise econômica mostra que, com base nas estimativas de receitas e custos,
 - **Duração:** 2 semanas
 
 ### 3. Desenvolvimento
-- **Descrição:** Codificação do software, integração de sistemas e desenvolvimento de funcionalidades
+- **Descrição:** Codificação do software, integração de sistemas, desenvolvimento de funcionalidades e hardware
 - **Horas Previstas:** 640 horas
 - **Duração:** 6 semanas
 
 ### 4. Testes e QA
 - **Descrição:** Testes de funcionalidade, usabilidade e segurança, correção de bugs
-- **Horas Previstas:** 160 horas
-- **Duração:** 2 semanas
+- **Horas Previstas:** 240 horas
+- **Duração:** 3 semanas
 
 ### 5. Implantação e Treinamento
 - **Descrição:** Lançamento da plataforma, treinamento de usuários e suporte inicial
@@ -222,8 +222,8 @@ A análise econômica mostra que, com base nas estimativas de receitas e custos,
 
 ### 6. Suporte Pós-Lançamento e Manutenção Inicial
 - **Descrição:** Suporte técnico, resolução de problemas iniciais e manutenção
-- **Horas Previstas:** 80 horas
-- **Duração:** 1 semana
+- **Horas Previstas:** 160 horas
+- **Duração:** 2 semanas
 
 ### Resumo do Projeto
 - **Total de Horas Previstas:** 1.200 horas
@@ -231,7 +231,7 @@ A análise econômica mostra que, com base nas estimativas de receitas e custos,
 
 * Prazo previsto (em horas): 1200 horas
 * Data de início: 29 / 08 / 2024
-* Data de término: 30 / 01 / 2025
+* Data de término: 13 / 12 / 202
 
 ## Escopo Preliminar e Premissas
 

@@ -161,51 +161,46 @@
 
 ### Artefatos a serem verificados
 
-| Artefato   | Tipo Verif. | Data        | Responsável | Métrica     | Data Correção | Ação Não Conform. | Resp. Avaliação | Resp. Correção |
-|------------|-------------|-------------|-------------|-------------|---------------|-------------------|-----------------|----------------|
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
-|            |             |             |             |             |               |                   |                 |                |
+| Artefato                          | Tipo de Verificação               | Data       | Responsável        | Métrica Aplicada                         | Data Limite p/ Correção | Ação p/ Não Conformidade        | Respons. Avaliação   | Respons. Correção   |
+|-----------------------------------|-----------------------------------|------------|--------------------|------------------------------------------|-------------------------|---------------------------------|----------------------|---------------------|
+| Requisitos da Plataforma          | Revisão (validação com stakeholders) | [Data]     | [Equipe de Qualidade] | Completo e validado com feedback        | [Data Limite]          | Reunião de reavaliação          | [Nome]               | [Nome]              |
+| Design de Interface (UI/UX)       | Teste de usabilidade              | [Data]     | [Responsável]      | Percentual de aprovação em testes de usabilidade com usuários reais | [Data Limite]          | Reprojeto baseado em feedback   | [Nome]               | [Nome]              |
+| Implementação do Monitor de Sinais| Testes funcionais                 | [Data]     | [Equipe Técnica]   | Percentual de cobertura nos testes unitários e integração           | [Data Limite]          | Correção dos bugs detectados    | [Nome]               | [Nome]              |
+| Segurança da Informação           | Auditoria                         | [Data]     | [Equipe de Qualidade] | Conformidade com LGPD e normas de segurança | [Data Limite]          | Implementação de melhorias      | [Nome]               | [Nome]              |
+| Documentação                      | Verificação                       | [Data]     | [Responsável]      | Precisão, clareza e completude          | [Data Limite]          | Revisão do documento            | [Nome]               | [Nome]              |
 
 ### Padrões e Normas Utilizadas
 
-| Nome       | Descrição   | 
-|------------|-------------|
-|            |             |
-|            |             |
-|            |             |
-|            |             |
-|            |             |
+| Nome                              | Descrição                                                                                       |
+|-----------------------------------|-------------------------------------------------------------------------------------------------|
+| LGPD (Lei Geral de Proteção de Dados) | Garantir que todos os dados coletados sejam tratados de forma ética e segura.                    |
+| ISO/IEC 25010                     | Para avaliar a qualidade do software com base em funcionalidade, usabilidade, confiabilidade, entre outros. |
+| Boas Práticas Ágeis               | Utilização de metodologias como Scrum para gerenciar o desenvolvimento do projeto.                |
+
 
 ### Ambiente das Atividades de Qualidade
 
-| Ambiente   | Descrição   | 
-|------------|-------------|
-|            |             |
-|            |             |
-|            |             |
-|            |             |
+- **Ferramentas de Teste:** Ferramentas para testes funcionais, de segurança e usabilidade (e.g., Selenium, OWASP ZAP, Maze).
+- **Ambiente de Desenvolvimento:** Configuração com ambiente de produção simulado para testes precisos.
+- **Equipe de Qualidade:** Time dedicado para verificação dos processos e feedback contínuo.
+
 
 ### Equipe de Qualidade
 
-| Nome       | Responsabilidade | 
-|------------|------------------|
-|            |                  |
-|            |                  |
-|            |                  |
-|            |                  |
-|            |                  |
+| Nome                              | Responsabilidades                                                                              |
+|-----------------------------------|-----------------------------------------------------------------------------------------------|
+| [Nome do Responsável]             | Coordenação das atividades de qualidade.                                                     |
+| [Nome do Responsável]             | Execução de testes e auditorias.                                                             |
+| [Nome do Responsável]             | Análise de métricas e relatórios.                                                            |
+
 
 ### Metodologias de Qualidade Utilizadas
 
-| Nome       | Descrição   | 
-|------------|-------------|
-|            |             |
-|            |             |
-|            |             |
+| Nome                              | Descrição                                                                                       |
+|-----------------------------------|-------------------------------------------------------------------------------------------------|
+| Scrum                             | Gerenciamento ágil do projeto com entregas parciais para melhor acompanhamento de qualidade.    |
+| Testes Automatizados              | Implementação de testes unitários e de integração contínuos para maior cobertura.              |
+| Auditorias de Segurança           | Avaliação regular do cumprimento das normas de privacidade e segurança de dados.               |
 
 ```diff
 + Tarefa 09:

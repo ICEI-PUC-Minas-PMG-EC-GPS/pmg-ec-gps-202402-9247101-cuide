@@ -314,18 +314,14 @@
 > Você pode utilizar como referência o seguinte documento:
 - [Plano de Gerenciamento de Riscos - Editável](artefatos/plano_riscos.xls)
 
-| Categoria do Risco  | Descrição do Risco | Impacto       | Risco         | Medidas de Prevenção (Contramedidas) | Medidas de Contingência (Mitigação) | 
-|---------------------|--------------------|---------------|---------------|--------------------------------------|-------------------------------------|
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
+| **Categoria do Risco** | **Descrição do Risco**   | **Impacto** | **Risco** | **Medidas de Prevenção (Contramedidas)** | **Medidas de Contingência (Mitigação)** |
+|-------------------------|--------------------------|-------------|-----------|-----------------------------------------|-----------------------------------------|
+| Técnico                 | Falhas no sistema       | Alto        | Alto      | Testes extensivos e revisões de código  | Correção imediata e rollback do sistema |
+| Recursos Humanos        | Falta de equipe treinada| Médio       | Médio     | Capacitação contínua                    | Contratação de especialistas            |
+| Cronograma              | Atrasos em entregas     | Alto        | Alto      | Monitoramento semanal                   | Repriorização de tarefas                |
+| Financeiro              | Corte de orçamento      | Médio       | Médio     | Planejamento financeiro adequado        | Negociação com stakeholders             |
+| Infraestrutura          | Falha em servidores     | Alto        | Alto      | Redundância de sistemas                 | Utilização de backups                   |
+
 
 > Indique:
 > Categoria do Risco: *ex.: Cliente, Cronograma, Orçamento, Aquisição de produtos, etc*

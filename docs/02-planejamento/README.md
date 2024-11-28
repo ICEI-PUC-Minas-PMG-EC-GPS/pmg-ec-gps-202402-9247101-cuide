@@ -231,8 +231,6 @@
 
 ## Plano de Comunicação
 
-...... DESCREVA SUCINTAMENTE O PLANO DE COMUNICAÇÃO UTILIZADO NO PROJETO ......
-
 > O Plano de Comunicação estabelece estratégias e diretrizes para facilitar a troca de informações entre os membros da equipe e as partes interessadas. 
 > Este plano abrange aspectos como os meios de comunicação, a frequência das atualizações, os canais de distribuição de informações e os responsáveis pela comunicação. 
 > Uma comunicação eficiente não apenas previne mal-entendidos e conflitos, mas também fortalece o engajamento da equipe e o apoio das partes interessadas. 
@@ -242,19 +240,19 @@
 
 ### Plano de Comunicação do Projeto
 
-| Entregável                         | Público Alvo | Met. Comunicação | Frequência  | Responsável | 
-|------------------------------------|--------------|------------------|-------------|-------------|
-| Ata de reunião                     |Stakeholders Presentes  | E-mail |Após Reuniões|Gerente de Projetos|
-| Declaração de escopo               |Patrocinadores e Equipe | Reunião e envio formal da documentação por e-mail   |             |             |
-| WBS                                |              |                  |             |             |
-| Dicionário da WBS                  |              |                  |             |             |
-| Cronograma                         |              |                  |             |             |
-| Lista de Riscos                    |              |                  |             |             |
-| Plano de qualidade                 |              |                  |             |             |
-| Plano de projeto                   |              |                  |             |             |
-| Relatório de Progresso             |              |                  |             |             |
-| Relatório de Aderência ao Processo |              |                  |             |             |
-| Checklists de Inspeção             |              |                  |             |             |
+| Entregável          | Público Alvo                              | Met. Comunicação                   | Frequência  | Responsável | 
+|---------------------|-------------------------------------------|------------------------------------|-------------|-------------|
+| Ata de reunião      |Stakeholders Presentes                     |E-mail                              |Após Reuniões|Gerente de Projetos|
+| Declaração de escopo|Patrocinadores e Equipe                    |Reunião e envio formal da documentação por e-mail | Entrega única |Gerente de projetos |
+| WBS                 |Equipe do projeto e Principais stakeholders|Reunião de apresentação da WBS, envio de documentação por e-mail|Entrega única|Gerente de Projetos |
+| Dicionário da WBS   |Equipe do projeto e Principais stakeholders| E-mail                             |Entrega única junto com a WBS|Gerente de projeto|
+| Cronograma          |Equipe do projeto e Patrocinadores|Plataforma colaborativa e Reuniões de Status |Versão inicial com atualizações regulares |Gerente de projeto|
+| Lista de Riscos     |Equipe do projeto e Stakeholders relevantes|Documento formal  e Reunião de Análise de Riscos|Versão inicial no planejamento|Gerente de projeto e equipe|
+| Plano de qualidade  |Patrocinadores e stakeholders-chave        |Documento formal e reuniões  de revisão/alinhamento|Entrega única|Especialista em qualidade |
+| Plano de projeto    |Equipe de projeto patrocinadores e stakeholders|Documento formal e reunião de kick-off |Entrega única |Gerente de Projetos|
+| Relatório de Progresso |Equipe do projeto e Principais stakeholders |Documento formal e ferramentas de gestão de projeto|Relatórios semanais ou quinzenais|Gerente de projeto|
+| Relatório de Aderência ao Processo|Equipe de qualidade e Principais stakeholders|Documento formal e reuniões de aderência|Relatório mensal| Equipe de controle de qualidade e Gerente de projetos|
+| Checklists de Inspeção             |Equipe do projeto e Gerente de projeto|Relatórios de inspeção e documentação compartilhada|A cada fase ou marcos importantes|Membros da equipe técnica e Gerente de projeto|
 |                                    |              |                  |             |             |
 |                                    |              |                  |             |             |
 |                                    |              |                  |             |             |

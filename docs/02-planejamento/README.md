@@ -274,9 +274,9 @@
 
 - Ferramentas utilizadas:
 - - [Microsoft Project](https://pucminas.br](https://www.microsoft.com/pt-br/microsoft-365/planner/microsoft-project))
-  - [Teams](https://www.microsoft.com/pt-br/microsoft-teams/free))
-  - [Onedrive]((https://www.microsoft.com/pt-br/microsoft-365/onedrive/online-cloud-storage))
-  - [Outlook]((https://www.microsoft.com/pt-br/microsoft-365/p/outlook/cfq7ttc0k7c4))
+  - [Teams](https://www.microsoft.com/pt-br/microsoft-teams/free)
+  - [Onedrive](https://www.microsoft.com/pt-br/microsoft-365/onedrive/online-cloud-storage)
+  - [Outlook](https://www.microsoft.com/pt-br/microsoft-365/p/outlook/cfq7ttc0k7c4)
 - Papéis:
 - - ...
   - ...

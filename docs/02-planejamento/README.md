@@ -244,8 +244,8 @@
 
 | Entregável                         | Público Alvo | Met. Comunicação | Frequência  | Responsável | 
 |------------------------------------|--------------|------------------|-------------|-------------|
-| Ata de reunião                     |              |                  |             |             |
-| Declaração de escopo               |              |                  |             |             |
+| Ata de reunião                     |Stakeholders Presentes  | E-mail |Após Reuniões|Gerente de Projetos|
+| Declaração de escopo               |Patrocinadores e Equipe | Reunião e envio formal da documentação por e-mail   |             |             |
 | WBS                                |              |                  |             |             |
 | Dicionário da WBS                  |              |                  |             |             |
 | Cronograma                         |              |                  |             |             |

@@ -22,6 +22,8 @@
 
 # Encerramento do Projeto
 
+- [Encerramento documento](/Template encerramento projeto-1 (1).pdf)
+
 ......  COLOQUE AQUI O SEU TEXTO ......
 
 > O Termo de Encerramento descreve uma a conclusão formal das atividades e entregas planejadas. 

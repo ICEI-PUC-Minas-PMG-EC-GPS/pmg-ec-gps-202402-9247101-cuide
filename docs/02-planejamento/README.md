@@ -163,11 +163,11 @@
 
 | Artefato                          | Tipo de Verificação               | Data       | Responsável        | Métrica Aplicada                         | Data Limite p/ Correção | Ação p/ Não Conformidade        | Respons. Avaliação   | Respons. Correção   |
 |-----------------------------------|-----------------------------------|------------|--------------------|------------------------------------------|-------------------------|---------------------------------|----------------------|---------------------|
-| Requisitos da Plataforma          | Revisão (validação com stakeholders) | [Data]     | [Equipe de Qualidade] | Completo e validado com feedback        | [Data Limite]          | Reunião de reavaliação          | [Nome]               | [Nome]              |
-| Design de Interface (UI/UX)       | Teste de usabilidade              | [Data]     | [Responsável]      | Percentual de aprovação em testes de usabilidade com usuários reais | [Data Limite]          | Reprojeto baseado em feedback   | [Nome]               | [Nome]              |
-| Implementação do Monitor de Sinais| Testes funcionais                 | [Data]     | [Equipe Técnica]   | Percentual de cobertura nos testes unitários e integração           | [Data Limite]          | Correção dos bugs detectados    | [Nome]               | [Nome]              |
-| Segurança da Informação           | Auditoria                         | [Data]     | [Equipe de Qualidade] | Conformidade com LGPD e normas de segurança | [Data Limite]          | Implementação de melhorias      | [Nome]               | [Nome]              |
-| Documentação                      | Verificação                       | [Data]     | [Responsável]      | Precisão, clareza e completude          | [Data Limite]          | Revisão do documento            | [Nome]               | [Nome]              |
+| Requisitos da Plataforma          | Revisão (validação com stakeholders) | [Data]     | [Equipe de Qualidade] | Completo e validado com feedback        | [Data Limite]          | Reunião de reavaliação          | Sabrina               | Willian              |
+| Design de Interface (UI/UX)       | Teste de usabilidade              | [Data]     | [Responsável]      | Percentual de aprovação em testes de usabilidade com usuários reais | [Data Limite]          | Reprojeto baseado em feedback   | Vitoria               | Nalanda              |
+| Implementação do Monitor de Sinais| Testes funcionais                 | [Data]     | [Equipe Técnica]   | Percentual de cobertura nos testes unitários e integração           | [Data Limite]          | Correção dos bugs detectados    | Nalanda               | Sabrina              |
+| Segurança da Informação           | Auditoria                         | [Data]     | [Equipe de Qualidade] | Conformidade com LGPD e normas de segurança | [Data Limite]          | Implementação de melhorias      | Vitoria               | Willian              |
+| Documentação                      | Verificação                       | [Data]     | [Responsável]      | Precisão, clareza e completude          | [Data Limite]          | Revisão do documento            | Vitoria               | Sabrina              |
 
 ### Padrões e Normas Utilizadas
 
